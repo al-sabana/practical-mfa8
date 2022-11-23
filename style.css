@@ -1,0 +1,93 @@
+body {
+  background-color: hsl(184, 14%, 56%);
+  font-family: Space Mono;
+}
+.whole-container {
+  background-color: hsl(190, 17%, 93%);
+  width: 600px;
+  height: 300px;
+  display: flex;
+  margin-left: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  font-family: Space Mono;
+}
+
+.btn-1 {
+  height: 20px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  border: none;
+  background-color: hsl(189, 41%, 97%);
+}
+
+.btn-2 {
+  height: 20px;
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  border: none;
+  background-color: hsl(189, 41%, 97%);
+}
+
+.last-container {
+  background-color: hsl(183, 100%, 15%);
+  width: 300px;
+  height: 250px;
+  margin-top: 25px;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.last-container button {
+  margin-left: 30px;
+  width: 250px;
+  background-color: hsl(183, 97%, 12%);
+  color: hsl(183, 100%, 15%);
+  border: none;
+  height: 30px;
+  margin-top: 50px;
+}
+.last-container h3 {
+  color: white;
+  margin-left: 20px;
+}
+.last-container h4 {
+  color: rgb(151, 147, 147);
+  margin-left: 20px;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+}
+.lst1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-right: 30px;
+  color: hsl(176, 58%, 56%);
+}
+h3,
+h4 {
+  margin: 0;
+}
+.lst2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-right: 30px;
+  color: hsl(176, 58%, 56%);
+}
+.first {
+  margin-left: 40px;
+}
+
+.sub button {
+  background-color: hsl(183, 100%, 15%);
+  border-style: none;
+  height: 30px;
+}
